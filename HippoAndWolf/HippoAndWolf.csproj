@@ -46,6 +46,8 @@
     <Compile Include="Animal.cs" />
     <Compile Include="Canine.cs" />
     <Compile Include="Hippo.cs" />
+    <Compile Include="IPackHunter.cs" />
+    <Compile Include="ISwimmer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Wolf.cs" />
